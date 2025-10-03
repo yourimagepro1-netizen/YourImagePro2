@@ -1,0 +1,12 @@
+
+{
+  "name": "Your Image Pro | AI Design & Photo Toolkit",
+  "description": "Generate stunning AI designs, flyers, headshots, and marketing photos in seconds with Your Image Pro. The ultimate AI toolkit for graphic designers and photographers.",
+  "requestFramePermissions": [],
+  "defineEnvironmentVariables": [
+    "API_KEY",
+    "API_BASE_URL",
+    "STATIC_ASSETS_URL",
+    "GOOGLE_CLIENT_ID"
+  ]
+}
